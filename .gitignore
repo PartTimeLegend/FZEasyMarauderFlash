@@ -3,3 +3,4 @@ Extra_ESP32_Bins/
 EvilPortal/
 venv
 env
+__pycache__
